@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketReservationAPI", "TicketReservationAPI\TicketReservationAPI.csproj", "{CF78AB4D-67E4-4516-85B7-1DC411D5775D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{841564EC-BF96-4BB8-9C8B-27132960D773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF78AB4D-67E4-4516-85B7-1DC411D5775D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF78AB4D-67E4-4516-85B7-1DC411D5775D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF78AB4D-67E4-4516-85B7-1DC411D5775D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF78AB4D-67E4-4516-85B7-1DC411D5775D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841564EC-BF96-4BB8-9C8B-27132960D773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841564EC-BF96-4BB8-9C8B-27132960D773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841564EC-BF96-4BB8-9C8B-27132960D773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841564EC-BF96-4BB8-9C8B-27132960D773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA0640C-A91A-4BEF-8E64-7D7BDA999846}
+	EndGlobalSection
+EndGlobal
